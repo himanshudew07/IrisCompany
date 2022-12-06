@@ -2,3 +2,4 @@ Training cource list
 --------------------
 
 Basic python cource will be arraned next week
+framework added
